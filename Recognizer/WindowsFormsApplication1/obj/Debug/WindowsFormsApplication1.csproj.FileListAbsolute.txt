@@ -1,0 +1,36 @@
+d:\users\xuchao\my documents\visual studio 2012\Projects\ConsoleApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+d:\users\xuchao\my documents\visual studio 2012\Projects\ConsoleApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+d:\users\xuchao\my documents\visual studio 2012\Projects\ConsoleApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+d:\users\xuchao\my documents\visual studio 2012\Projects\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+d:\users\xuchao\my documents\visual studio 2012\Projects\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+d:\users\xuchao\my documents\visual studio 2012\Projects\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+d:\users\xuchao\my documents\visual studio 2012\Projects\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+d:\users\xuchao\my documents\visual studio 2012\Projects\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+d:\users\xuchao\my documents\visual studio 2012\Projects\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ImgInfo.resources
+E:\微云网盘\56818884\Ausbio\图像识别\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\微云网盘\56818884\Ausbio\图像识别\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\微云网盘\56818884\Ausbio\图像识别\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\微云网盘\56818884\Ausbio\图像识别\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\微云网盘\56818884\Ausbio\图像识别\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\微云网盘\56818884\Ausbio\图像识别\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\微云网盘\56818884\Ausbio\图像识别\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ImgInfo.resources
+E:\微云网盘\56818884\Ausbio\图像识别\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\微云网盘\56818884\Ausbio\图像识别\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\weiyun\56818884\Ausbio\Recognizer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\weiyun\56818884\Ausbio\Recognizer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\weiyun\56818884\Ausbio\Recognizer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\weiyun\56818884\Ausbio\Recognizer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\weiyun\56818884\Ausbio\Recognizer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\weiyun\56818884\Ausbio\Recognizer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\weiyun\56818884\Ausbio\Recognizer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ImgInfo.resources
+E:\weiyun\56818884\Ausbio\Recognizer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\weiyun\56818884\Ausbio\Recognizer\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
